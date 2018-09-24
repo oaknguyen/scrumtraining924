@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Platypuses
 Oak was here
 You can use the [editor on GitHub](https://github.com/oaknguyen/scrumtraining924/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
