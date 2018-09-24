@@ -1,9 +1,6 @@
-## Platypuses
-Oak was here
-You can use the [editor on GitHub](https://github.com/oaknguyen/scrumtraining924/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# PLATYPUSES
+## LEARN ALL ABOUT PLATYPUSES HERE!
+![Image](https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/63062-istock-658344164.jpg?itok=9A7q2BFc&resize=1100x1100)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
